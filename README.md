@@ -26,7 +26,7 @@
 ---
 
 ###  🧑🏾‍💻 About Me :
-I'm studying to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Miami, FL.
+Future Full Stack Developer living in Miami, FL.
 
 - 📓 I’m working as an administrative assistant and currently pursuing a BS in Computer Science.
 
