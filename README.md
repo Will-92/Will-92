@@ -28,9 +28,9 @@
 ###  🧑🏾‍💻 About Me :
 Future Full Stack Developer living in Miami, FL.
 
-- 📓 I’m working as an administrative assistant and currently pursuing a BS in Computer Science.
+- 📓 Working as an administrative assistant and pursuing a BS in Computer Science.
 
-- 💻 Learning HTML, CSS, JS, and React.
+- 💻 Focused on HTML, CSS, JS, and React.
 
 - :mailbox: Contact me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](](https://www.linkedin.com/in/will-berry-38798391/)your-linkedin-url)
 
