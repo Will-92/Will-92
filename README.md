@@ -32,8 +32,6 @@ Future Full Stack Developer living in Miami, FL.
 
 - 💻 Focused on HTML, CSS, JS, and React.
 
-- :mailbox: Contact me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](](https://www.linkedin.com/in/will-berry-38798391/)your-linkedin-url)
-
 
 ---
 
