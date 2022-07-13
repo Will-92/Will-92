@@ -14,19 +14,12 @@
 </div>
 <br>
 
-<div align= center> <h1> Welcome to my World </h1> </div>
-<br>
-<br>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e478i91th0ang5yk1euk7np3xml0ec8w12179c2ww9m&rid=giphy.gif&ct=g" 
-       align= center width="800" height="350"/>
-</div>
 
 ---
 
 ###  🧑🏾‍💻 About Me :
-Future Full Stack Developer living in Miami, FL.
+Future Full Stack Developer
 
 - 📓 Working as an administrative assistant and pursuing a BS in Computer Science.
 
@@ -35,7 +28,7 @@ Future Full Stack Developer living in Miami, FL.
 
 ---
 
-### :hammer_and_wrench: My Toolbox :
+### :hammer_and_wrench: Tools and Languages:
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
