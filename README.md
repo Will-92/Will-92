@@ -1,6 +1,4 @@
-<div id="gif" align= center>
-  <img src="https://media.giphy.com/media/800iiDTaNNFOwytONV/giphy.gif" width="180"/>
-</div>
+
 <br>
 
 <div id="badges" align= center>
