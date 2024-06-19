@@ -17,11 +17,11 @@
 ---
 
 ###  🧑🏾‍💻 About Me :
-Future Full Stack Developer
+Future Software Developer
 
-- 📓 Working as an administrative assistant and pursuing a BS in Computer Science.
+- 📓 Pursuing a BS in Computer Information Science at Barry University.
 
-- 💻 Currently focused on learning React.
+- 💻 Currently focused on building web apps with ReactJS.
 
 
 ---
